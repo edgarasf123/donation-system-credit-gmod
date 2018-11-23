@@ -1,3 +1,7 @@
+## ⚠️Warning⚠️
+
+This is one of my old code, and some parts most likely outdated. I have no interest or time to actually go over the code. If someone wants to use this, feel free to fix it.
+
 # donation-system-credit-gmod
 
 This is heavily upgraded version of my first [Automated Donation System](https://github.com/edgarasf123/donation-system-gmod), which has been sold for over a year. 
